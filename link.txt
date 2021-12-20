@@ -1,0 +1,7 @@
+https://chemandy.com/calculators/return-loss-and-mismatch-calculator.htm
+https://www.nxp.com/docs/en/application-note/AN11564.pdf
+https://handsonrf.com/wp-content/uploads/2018/12/Type_4_Opt1234_step12_SC_Q.png
+https://devzone.nordicsemi.com/f/nordic-q-a/37881/nrf24le1-antenna-50-ohms-impedance-matching-questions
+https://www.coilcraft.com/getmedia/ebe04fb9-dede-42c0-bcd2-ddfa3f66994a/Doc1077_Baluns_and_Impedance_Matching.pdf
+https://www.everythingrf.com/rf-calculators/frequency-to-wavelength
+http://www.csgnetwork.com/vswrlosscalc.html
